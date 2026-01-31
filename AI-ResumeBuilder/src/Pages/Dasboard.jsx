@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const Dasboard = () => {
   return (
     <div>
-      
+      dash
     </div>
   )
 }
 
-export default App
+export default Dasboard
